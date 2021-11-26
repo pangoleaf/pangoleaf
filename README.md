@@ -1,4 +1,4 @@
-# Pangoleaf
+# pangoleaf
 
 Aspiring developer, interested in contributing to open source projects.
 
